@@ -1,0 +1,17 @@
+<head>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400" rel="stylesheet">
+    <link rel="stylesheet" href="/app.css">
+</head>
+
+<body>
+<div class="flex-container">
+    <div class="container">
+        <h1>Welcome</h1>
+        <p class="lead">These <strong><%= count %></strong> fake emails Signed-Up for nothing! You can too!</p>
+        <form method="POST" action='/register'>
+            <input type="email" name="email" class="form" placeholder="Enter Fake Email">
+            <button>Sign-Up: +1</button>
+        </form>
+    </div>
+</div>
+</body>
