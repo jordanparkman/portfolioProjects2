@@ -1,0 +1,11 @@
+PAYSTUB FOR MAY 2018
+--------------------
+Staff Name: Adam
+Hours Worked: 180
+
+Base Pay: $7,200.00
+Overtime Pay: $515.00
+
+--------------------
+Final Pay: $7,715.00
+--------------------

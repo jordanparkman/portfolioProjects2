@@ -1,0 +1,14 @@
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\bin\Debug\CSProject.exe.config
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\bin\Debug\CSProject.exe
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\bin\Debug\CSProject.pdb
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\obj\Debug\PayRollProject.csprojResolveAssemblyReference.cache
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\obj\Debug\PayRollProject.csproj.CoreCompileInputs.cache
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\obj\Debug\CSProject.exe
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\CSProject\CSProject\obj\Debug\CSProject.pdb
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\bin\Debug\PayRollProject.exe.config
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\bin\Debug\PayRollProject.exe
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\bin\Debug\PayRollProject.pdb
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\obj\Debug\PayRollProject.csprojResolveAssemblyReference.cache
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\obj\Debug\PayRollProject.csproj.CoreCompileInputs.cache
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\obj\Debug\PayRollProject.exe
+C:\Users\sepor_000\Documents\Visual Studio 2017\Projects\PayRollProject\PayRollProject\obj\Debug\PayRollProject.pdb
