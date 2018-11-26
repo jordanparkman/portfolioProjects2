@@ -1,4 +1,4 @@
-# Project Title
+# Astro Music
 
 This project was done for the Extra Credits Game Jam. The theme for the Jam was "Awesome Per Second". The Game Jam home page can be found here: https://itch.io/jam/extra-credits-game-design-jam 
 
