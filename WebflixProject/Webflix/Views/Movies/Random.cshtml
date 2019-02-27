@@ -1,0 +1,35 @@
+﻿@model Webflix.ViewModels.RandomMovieViewModel
+
+
+@{
+    ViewBag.Title = "Random"; //Property that shows title of page in browser
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{ 
+    var className = Model.Customers.Count > 0 ? "popular" : null;
+}
+
+
+@*
+This is a comment for razor view    
+*@
+
+<!--Every view has a property that gives use access to the model we pass to it in the controller -->
+<h2 class="@className">@Model.Movie.Name</h2>
+
+@if (Model.Customers.Count == 0)
+{
+    <p>No one has rented this movie before.</p>
+}
+else
+{
+    <ul>
+        @foreach (var customer in Model.Customers) //used to render the list of customers
+        {
+            <li>@customer.Name</li>
+        }
+    </ul>
+}
+
+
